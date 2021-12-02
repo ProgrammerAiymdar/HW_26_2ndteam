@@ -58,3 +58,12 @@
     margin-top: 160px;
     margin-left: -180px;
 }
+
+.lilac-home__door {
+    display: flex;
+    width: 44px;
+    height: 81px;
+    background-color: #FFECBB;
+    margin-top: 300px;
+    margin-left: 75px;
+}
