@@ -83,7 +83,7 @@
     height: 108px;
     background-color: #FFECBB;
     margin-top: 33px;
-    margin-left: 40px;
+    margin-left: 23px;
 }
 .blue-home__windows-three {
     display: flex;
@@ -91,7 +91,7 @@
     height: 66px;
     background-color: #FFECBB;
     margin-top: 160px;
-    margin-left: -180px;
+    margin-left: -170px;
 }
 
 .blue-home__door {
@@ -99,7 +99,7 @@
   width: 55px;
   height: 127px;
   margin-top: 210px;
-  margin-left: 112px;
+  margin-left: 10px;
   background-color: #e7c1f9;
 }
 
