@@ -48,6 +48,14 @@
   margin-top: -380px;
   background-color: #e7c1f9;
 }
+.lilac-home__door {
+    display: flex;
+    width: 44px;
+    height: 81px;
+    background-color: #FFECBB;
+    margin-top: 300px;
+    margin-left: 75px;
+}
 
 .blue-home {
   display: flex;
@@ -58,6 +66,34 @@
   background-color: #84cef9;
 }
 
+.blue-home__windows {
+    display: flex;
+}
+.blue-home__windows-one {
+    display: flex;
+    width: 62px;
+    height: 66px;
+    background-color: #FFECBB;
+    margin-top: 33px;
+    margin-left: 23px;
+}
+.blue-home__windows-two {
+    display: flex;
+    width: 82px;
+    height: 108px;
+    background-color: #FFECBB;
+    margin-top: 33px;
+    margin-left: 40px;
+}
+.blue-home__windows-three {
+    display: flex;
+    width: 62px;
+    height: 66px;
+    background-color: #FFECBB;
+    margin-top: 160px;
+    margin-left: -180px;
+}
+
 .blue-home__door {
   display: flex;
   width: 55px;
@@ -66,3 +102,4 @@
   margin-left: 112px;
   background-color: #e7c1f9;
 }
+
