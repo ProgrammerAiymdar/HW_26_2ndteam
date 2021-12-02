@@ -1,33 +1,68 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 .oasis-home {
-    display: flex;
-    width: 226px;
-    height: 337px;
-    margin-left: 400px;
-    margin-top: 100px;
-    background-color: #FFECBB;
+  display: flex;
+  width: 226px;
+  height: 337px;
+  margin-left: 400px;
+  margin-top: 100px;
+  background-color: #ffecbb;
+}
+
+.oasis-home__windows-one {
+  display: flex;
+  width: 55px;
+  height: 55px;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: #e7c1f9;
+}
+
+.oasis-home__windows-two {
+  display: flex;
+  width: 55px;
+  height: 55px;
+  margin-top: 30px;
+  margin-left: 145px;
+  background-color: #e7c1f9;
+}
+
+.oasis-home__windows-three {
+  display: flex;
+  width: 55px;
+  height: 55px;
+  margin-top: -10px;
+  margin-left: 35px;
+  background-color: #e7c1f9;
 }
 
 .lilac-home {
-    display: flex;
-    width: 217px;
-    height: 380px;
-    margin-left: 700px;
-    margin-top: -380px;
-    background-color: #E7C1F9;
+  display: flex;
+  width: 217px;
+  height: 380px;
+  margin-left: 700px;
+  margin-top: -380px;
+  background-color: #e7c1f9;
 }
 
 .blue-home {
-    display: flex;
-    width: 226px;
-    height: 337px;
-    margin-left: 510px;
-    margin-top: 50px;
-    background-color: #84CEF9;
+  display: flex;
+  width: 226px;
+  height: 337px;
+  margin-left: 510px;
+  margin-top: 50px;
+  background-color: #84cef9;
 }
 
+.blue-home__door {
+  display: flex;
+  width: 55px;
+  height: 127px;
+  margin-top: 210px;
+  margin-left: 112px;
+  background-color: #e7c1f9;
+}
