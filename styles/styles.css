@@ -40,6 +40,15 @@
   background-color: #e7c1f9;
 }
 
+.oasis-home__door {
+  display: flex;
+  width:57px ;
+  height:81px ;
+  background-color: #84CEF9;
+  margin-top: 255px;
+  margin-left: -60px;
+}
+
 .lilac-home {
   display: flex;
   width: 217px;
@@ -48,13 +57,66 @@
   margin-top: -380px;
   background-color: #e7c1f9;
 }
+
+.lilac-home__windows{
+  display: flex;  
+}
+.lilac-home__windows-one{
+  display: flex;
+  margin-top: 43px;
+  margin-left: 23px;
+  width: 46px;
+  height: 47px;
+  background-color: #84CEF9;
+}
+.lilac-home__windows-two{
+  display: flex;
+  margin-top: 124px;
+  margin-left: -24px;
+  width: 46px;
+  height: 47px;
+  background-color: #84CEF9;
+}
+.lilac-home__windows-three{
+  display: flex;
+  margin-top: 190px;
+  margin-left: -55px;
+  width: 46px;
+  height: 47px;
+  background-color: #84CEF9;
+}
+.lilac-home__windows-four{
+  display: flex;
+  margin-top: 43px;
+  margin-left: 67px;
+  width: 46px;
+  height: 47px;
+  background-color: #84CEF9;
+}
+.lilac-home__windows-five{
+  display: flex;
+  margin-top: 120px;
+  margin-left: -76px;
+  width: 46px;
+  height: 47px;
+  background-color: #84CEF9;
+}
+.lilac-home__windows-six{
+  display: flex;
+  margin-top: 190px;
+  margin-left: -23px;
+  width: 46px;
+  height: 47px;
+  background-color: #84CEF9;
+}
+
 .lilac-home__door {
     display: flex;
     width: 44px;
     height: 81px;
     background-color: #FFECBB;
     margin-top: 300px;
-    margin-left: 75px;
+    margin-left: -95px;
 }
 
 .blue-home {
